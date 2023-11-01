@@ -1,2 +1,2 @@
 # Text-To-Speech-Converter
-A textx to speech converter made using HTML, CSS and Javascript.
+A text to speech converter made using HTML, CSS and Javascript.
